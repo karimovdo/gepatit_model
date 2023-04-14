@@ -1,12 +1,12 @@
 0	Label	
-1	Categ	Casp7
-2	Categ	Chek
-3	Categ	Gclc
-4	Categ	Gstm1
-5	Categ	Gstp1
-6	Categ	Gstt1
-7	Categ	Hmox
-8	Categ	Nfe2l2
-9	Categ	Nqo1
-10	Categ	Ripk
-11	Categ	Sod1
+1	Num	Casp7
+2	Num	Chek
+3	Num	Gclc
+4	Num	Gstm1
+5	Num	Gstp1
+6	Num	Gstt1
+7	Num	Hmox
+8	Num	Nfe2l2
+9	Num	Nqo1
+10	Num	Ripk
+11	Num	Sod1
